@@ -112,7 +112,7 @@ Sparky({
                         externalAdReply: {
                             title: style(`Hey ${m.pushName}!`),
                             body: style(`${config.BOT_INFO.split(";")[0]}`),
-                            sourceUrl: "https://sparky.devstackx.in",
+                            sourceUrl: "https://wa.me/message/VDYRZ3XQ4TKKI1",
                             mediaType: 1,
                             showAdAttribution: true,
                             renderLargerThumbnail: true,
@@ -133,8 +133,8 @@ Sparky({
                         externalAdReply: {
                             title: style(`Hey ${m.pushName}!`),
                             body: style(`${config.BOT_INFO.split(";")[0]}`),
-                            sourceUrl: "https://sparky.devstackx.in",
-                            mediaUrl: "https://sparky.devstackx.in",
+                            sourceUrl: "https://wa.me/message/VDYRZ3XQ4TKKI1",
+                            mediaUrl: "https://wa.me/message/VDYRZ3XQ4TKKI1",
                             mediaType: 1,
                             showAdAttribution: true,
                             renderLargerThumbnail: false,
@@ -157,7 +157,7 @@ Sparky({
                         externalAdReply: {
                             title: style(`Hey ${m.pushName}!`),
                             body: style(`${config.BOT_INFO.split(";")[0]}`),
-                            sourceUrl: "https://sparky.devstackx.in",
+                            sourceUrl: "https://wa.me/message/VDYRZ3XQ4TKKI1",
                             mediaType: 1,
                             showAdAttribution: true,
                             renderLargerThumbnail: true,
